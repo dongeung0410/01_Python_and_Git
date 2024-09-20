@@ -1,6 +1,6 @@
 # 1번 문제
 string="Hello,world!"
-print(string[0:-1])
+print(string[0:5])
 
 # 2번 문제
 result=[]
