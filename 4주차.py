@@ -1,6 +1,4 @@
-# 1번 문제
-from msvcrt import kbhit
-
+# 1번 문제k
 a=input("문자열을 입력하세요")
 if a =="안녕하세요":
     print("반갑습니다")
