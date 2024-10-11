@@ -9,7 +9,7 @@ class 회원가입:
 내정보=회원가입('정동승','23세','010-2488-1617')
 내정보.indo()
 
-a=("메시지를 입력하세요")
+a=input("메시지를 입력하세요")
 def check_length_of_message(message):
     Q=len(message)
     if Q <= 20:
